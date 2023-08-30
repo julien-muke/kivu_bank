@@ -13,6 +13,9 @@ KivuBank is a responsive React JS application consisting of a stunning hero sect
 - Perfectly placed media queries for satisfactory responsiveness on all devices
 - And at the end, you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name using Hostinger
 
+ Learn from:
+  ⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
+
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
